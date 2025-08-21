@@ -24,7 +24,7 @@ A simple **Virtual Assistant built in Python** that can perform various tasks su
   
 ---
 
-## ⚙️ How It Works
+## How It Works
 1. The assistant listens to your voice using the microphone.  
 2. Converts the speech into text using `speech_recognition`.  
 3. Processes the command using Python logic and libraries.  
